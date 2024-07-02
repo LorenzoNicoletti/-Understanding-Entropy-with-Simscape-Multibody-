@@ -1,4 +1,4 @@
-## Model Particle Collision with Simscape Multibody
+## Model Particle Collision with Simscape Multibody   [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=LorenzoNicoletti/-Understanding-Entropy-with-Simscape-Multibody-)
 The model simulates the behavior of 10 spheres (five red and five blue). The spheres represent particles of two different gases and are placed within a square enclosure. The particles are free to move within the enclosure, collide with one another, and bounce off the enclosure's boundaries. Initially, all red particles are on the left side of the enclosure while all blue particles are on the right side, as illustrated below. When the simulation begins, each particle is imparted with an identical amount of energy, initiating their movement. Over time, due to collisions and their movements, the particles will eventually mix together completely.
 
 ![](overview/entropyModel.gif)
